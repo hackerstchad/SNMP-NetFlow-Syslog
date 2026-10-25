@@ -4,7 +4,6 @@
 **Date :** 2026  
 **Version :** 2.0  
 **Licence :** Usage éducatif, professionnel et recherche. Mention de l'auteur obligatoire pour redistribution.  
-**Statut :** Référence complète 3000+ lignes
 
 ---
 
