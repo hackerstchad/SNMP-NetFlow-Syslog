@@ -1,5 +1,8 @@
 # Guide Ultra-Avançé des Protocoles de Supervision, Collecte et Analyse Réseau
 
+<img width="1024" height="427" alt="a371cc3f-677e-46f8-9dc2-1f84792e62bc" src="https://github.com/user-attachments/assets/2e300d5e-0a2a-44f1-b6b1-50ceac20d52e" />
+
+
 **Auteur :** hackers_tchad  
 **Date :** 2026  
 **Version :** 2.0  
